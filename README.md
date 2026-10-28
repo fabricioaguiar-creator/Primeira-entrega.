@@ -41,4 +41,4 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 <img src="https://maristelaoliveira.github.io/curso-github/assets/memoji/acenando.webp" width="70" align="right" alt="">
 
 - **Nome:** Fabricio Lopes de Aguiar
-- **Curso:** Anákise de Desenvolvimento e Sistemas
+- **Curso:** Análise de Desenvolvimento e Sistemas
